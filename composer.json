@@ -1,5 +1,5 @@
 {
-"name": "DateTimePicker",
+"name": "mixerowsky/datetimepicker",
 "description": "Drupal 8 - library for single_datetime module.",
 "type": "drupal-library",
 "repositories": [
