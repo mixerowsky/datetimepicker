@@ -49,6 +49,7 @@ Options to highlight individual dates or periods
 
 **Requires Node and NPM** [Download and install node.js](http://nodejs.org/download/).
 
+
 Install:
 
 1. Install `bower` globally with `npm install -g bower`.
