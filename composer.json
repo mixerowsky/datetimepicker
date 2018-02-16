@@ -1,5 +1,7 @@
 {
-"name": "mixerowsky/datetimepicker",
+"name": "DateTimePicker",
+"description": "Drupal 8 - library for single_datetime module.",
+"type": "drupal-library",
 "repositories": [
     {
         "type": "package",
@@ -7,8 +9,12 @@
             "name": "mixerowsky/datetimepicker",
             "version": "dev-master",
             "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/mixerowsky/datetimepicker.git",
+                    "type": "drupal-library"
+                },
             "source": {
-                "url": "git://github.com/mixerowsky/datetimepicker.git",
+                "url": "https://github.com/mixerowsky/datetimepicker.git",
                 "type": "git",
                 "reference": "master"
             }
