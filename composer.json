@@ -5,7 +5,7 @@
             "name": "mixerowsky/datetimepicker",
             "version": "dev-master",
             "source": {
-                "url": "git://github.com/weaverryan/derp-dangerzone.git",
+                "url": "git://github.com/mixerowsky/datetimepicker.git",
                 "type": "git",
                 "reference": "master"
             }
