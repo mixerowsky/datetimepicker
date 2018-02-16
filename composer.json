@@ -9,10 +9,6 @@
             "name": "mixerowsky/datetimepicker",
             "version": "dev-master",
             "type": "drupal-library",
-                "dist": {
-                    "url": "https://github.com/mixerowsky/datetimepicker.git",
-                    "type": "drupal-library"
-                },
             "source": {
                 "url": "https://github.com/mixerowsky/datetimepicker.git",
                 "type": "git",
