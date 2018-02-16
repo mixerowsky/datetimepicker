@@ -1,0 +1,14 @@
+"repositories": [
+    {
+        "type": "package",
+        "package": {
+            "name": "mixerowsky/datetimepicker",
+            "version": "dev-master",
+            "source": {
+                "url": "git://github.com/weaverryan/derp-dangerzone.git",
+                "type": "git",
+                "reference": "master"
+            }
+        }
+    }
+],
