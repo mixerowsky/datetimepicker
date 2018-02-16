@@ -3,7 +3,7 @@
     {
         "type": "package",
         "package": {
-            "name": "mixerowsky/datetimepicker",
+            "name": "datetimepicker/datetimepicker",
             "version": "dev-master",
             "source": {
                 "url": "git://github.com/mixerowsky/datetimepicker.git",
